@@ -5,7 +5,8 @@
 思路是采用双轨：
 - 学术工作
 - 工程项目
-  
+
+基本思路：[wiki](https://github.com/SWHL/awesome-ocr-collection/wiki/%E5%9F%BA%E6%9C%AC%E6%80%9D%E8%B7%AF)
 
 ## TODO
 - [ ] 整合[awesome-ocr](https://github.com/shangxiazuoyou/awesome-ocr)
