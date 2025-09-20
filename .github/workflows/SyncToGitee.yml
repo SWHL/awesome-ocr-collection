@@ -20,5 +20,5 @@ jobs:
           dst_token:  ${{ secrets.GITEE_TOKEN }}
           force_update: true
           # only sync this repo
-          static_list: "RapidVideOCR"
+          static_list: "awesome-ocr-collection"
           debug: true

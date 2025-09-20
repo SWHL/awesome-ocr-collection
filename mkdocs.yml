@@ -1,11 +1,11 @@
-site_name: RapidVideOCR 文档
-site_url: https://swhl.github.io/RapidVideOCR/
+site_name: Awesome OCR Collection
+site_url: https://github.com/SWHL/awesome-ocr-collection
 site_author: SWHL
 site_description:
-  🎦 Extract video hard subtitles and automatically generate corresponding srt files.
+  OCR, from research to production.
 
-repo_name: SWHL/RapidVideOCR
-repo_url: https://github.com/SWHL/RapidVideOCR
+repo_name: SWHL/awesome-ocr-collection
+repo_url: https://github.com/SWHL/awesome-ocr-collection
 
 copyright: Copyright &copy; 2025 Maintained by SWHL.
 
