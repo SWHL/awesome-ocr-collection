@@ -1,1 +1,1 @@
-{"config":{"lang":["en"],"separator":"[\\s\\u200b\\-_,:!=\\[\\]()\"`/]+|\\.(?!\\d)|&[lg]t;|(?!\\b)(?=[A-Z][a-z])","pipeline":["stemmer"]},"docs":[]}
+{"config":{"lang":["en"],"separator":"[\\s\\u200b\\-_,:!=\\[\\]()\"`/]+|\\.(?!\\d)|&[lg]t;|(?!\\b)(?=[A-Z][a-z])","pipeline":["stemmer"]},"docs":[{"location":"llm/","title":"VLM\u200b\u4e13\u9879","text":"<ul> <li>Logics-Parsing Technical Report</li> </ul>"}]}
