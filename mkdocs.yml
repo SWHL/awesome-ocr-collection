@@ -114,4 +114,5 @@ extra:
 
 nav:
   - 概览: index.md
+  - VLM专项: llm/index.md
 
